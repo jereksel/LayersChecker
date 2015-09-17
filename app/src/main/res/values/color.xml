@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Primary & Accent colors -->
+    <color name="primary">#ff3F51B5</color>
+    <color name="primary_dark">#ff303F9F</color>
+    <color name="accent">#ffFF5252</color>
+
+
+    <!-- Text colors -->
+    <color name="textColorPrimary">#ff212121</color>
+    <color name="text_color_inverse">#ffffffff</color>
+    <color name="text_color_secondary">#ff727272</color>
+    <color name="actionbar_text_color">#ffffffff</color>
+    <color name="actionbar_text_secondary_color">#ffffffff</color>
+    <color name="tutorial_text_primary_color">#ffffffff</color>
+    <color name="tutorial_text_secondary_color">#ffffffff</color>
+
+
+    <!-- Backgrounds -->
+    <color name="transparent">#00000000</color>
+    <color name="black">#ff000000</color>
+    <color name="green">#ff4CAF50</color>
+    <color name="red">#ffF44336</color>
+
+    <!-- other colors -->
+    <color name="white">#ffffff</color>
+    <color name="backup_restore_tint">#727272</color>
+    <color name="fab_tint">#ffffff</color>
+</resources>
